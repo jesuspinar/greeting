@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greetings</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="btn_text">Submit</string>
+    <string name="greetingMessage">Hello!</string>
+</resources>
